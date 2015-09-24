@@ -12,7 +12,7 @@ namespace _02_TileCalculator
         /* 
 
     Bugs- 
-          Break proof as far as I can tell!
+          Will not compute correctly if you input a negative number.
 
         */
         {
