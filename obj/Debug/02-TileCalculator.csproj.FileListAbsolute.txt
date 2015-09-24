@@ -1,0 +1,6 @@
+C:\Dev\Github\02-TileCalculator\02-TileCalculator\bin\Debug\02-TileCalculator.exe.config
+C:\Dev\Github\02-TileCalculator\02-TileCalculator\bin\Debug\02-TileCalculator.exe
+C:\Dev\Github\02-TileCalculator\02-TileCalculator\bin\Debug\02-TileCalculator.pdb
+C:\Dev\Github\02-TileCalculator\02-TileCalculator\obj\Debug\02-TileCalculator.csprojResolveAssemblyReference.cache
+C:\Dev\Github\02-TileCalculator\02-TileCalculator\obj\Debug\02-TileCalculator.exe
+C:\Dev\Github\02-TileCalculator\02-TileCalculator\obj\Debug\02-TileCalculator.pdb
